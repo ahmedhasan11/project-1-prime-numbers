@@ -1,0 +1,8 @@
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\bin\Debug\Project 1 prime numbers.exe.config
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\bin\Debug\Project 1 prime numbers.exe
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\bin\Debug\Project 1 prime numbers.pdb
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\obj\Debug\Project 1 prime numbers.csproj.AssemblyReference.cache
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\obj\Debug\Project 1 prime numbers.csproj.SuggestedBindingRedirects.cache
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\obj\Debug\Project 1 prime numbers.csproj.CoreCompileInputs.cache
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\obj\Debug\Project 1 prime numbers.exe
+E:\Users\raya\source\repos\Project 1 prime numbers\Project 1 prime numbers\obj\Debug\Project 1 prime numbers.pdb
